@@ -11,7 +11,7 @@
 
     public void Mul()
     {
-        int a, b, c
+        int a, b, c,d
         a = 5;
         b = 4;
         c = a * b;
